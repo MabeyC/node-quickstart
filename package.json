@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Application used for testing purposes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "pm2": "pm2 app.js"
+  },
+  "author": "Chris Mabey",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
